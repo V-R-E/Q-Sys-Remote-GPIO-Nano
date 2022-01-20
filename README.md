@@ -7,11 +7,11 @@ The Remote GPIO Nano is a 5-volt tolerant network GPIO peripheral designed for t
 
 HARDWARE
 
-  Arduino Nano
+   Arduino Nano
   
-  enc28j60 Arduino Ethernet Shield
+   enc28j60 Arduino Ethernet Shield
   
-  Nano Terminal Adapter Shield
+   Nano Terminal Adapter Shield
 
 SETUP
 
