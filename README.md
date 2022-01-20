@@ -4,11 +4,15 @@ This is a Q-Sys plugin and associated Arduino code to create a low cost open sou
 
 The Remote GPIO Nano is a 5-volt tolerant network GPIO peripheral designed for the Q-SYS architecture. The peripheral has a total of 16 fully configurable GPIO pins, 8 digital IO and 8 analog inputs (6 of which can be configured as additional digital IO). Built around readily available open-source hardware the Remote GPIO Nano can be assembled for around $25 per unit. An Arduino Nano microcontroller in companion with an ENC28J60 ethernet shield enables UDP communication with the Q-SYS core. This plugin allows for ease of setup and integration into an existing design appearing as any other configurable GPIO component. 
 
+
 HARDWARE
 
 Arduino Nano
+
 enc28j60 Arduino Ethernet Shield
+
 Nano Terminal Adapter Shield
+
 
 SETUP
 
