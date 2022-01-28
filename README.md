@@ -24,14 +24,12 @@ The Remote GPIO Nano is a 5-volt tolerant CMOS network GPIO peripheral designed 
 
 
 ## Control Pin Definitions
-- Digital 1…8 (Depends on pin configuration status)
+- Digital 1…16 (Depends on pin configuration status)
   - *Digital Input: **Read Only*** [1,0]
   - *Digital Output: **Write Only*** [1,0]
-- Analog 1/D9…8/D16 (Depends on pin configuration status)
+- Analog 1…8 (Depends on pin configuration status)
   - *Analog Input,: **Read Only*** [0-1023]
-  - *Digital Input: **Read Only*** [1,0]
   - *A/D Input: **Read Only*** [0-1023 / 1,0]
-  - *Digital Output: **Write Only*** [1,0]
 - Analog Reference Voltage (Voltage use to refence the analog pins against. *Should not exceed 5v)
   - ***Read Only*** [0.00v-5.50v]
 - Device IP (IP Address of The Remote GPIO Nano)
